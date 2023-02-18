@@ -93,7 +93,7 @@
     bottom: .5rem;
     font-size: 1.5rem;
     cursor: pointer;
-    color: var(--title-color);
+    color: var(--title -color);
  }
 
  .nav__close:hover {
@@ -101,7 +101,7 @@
  }
 
  .nav__toggle {
-    font-weight: 1.1rem;
+    font-size: 1.1rem;
     cursor: pointer;
  }
 
